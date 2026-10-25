@@ -4,7 +4,11 @@ Finds the promises **you** made in a WhatsApp export, on your laptop, with [Gemm
 
 ## 🎬 Project Demo
 
-[![SAID-IT Project Demo](https://img.youtube.com/vi/pZV7bL4ld-U/hqdefault.jpg)](https://youtu.be/pZV7bL4ld-U)
+<p align="center">
+  <a href="https://youtu.be/pZV7bL4ld-U">
+    <img src="docs/poster.png" alt="SAID-IT Project Demo" width="700">
+  </a>
+</p>
 
 ▶️ **[Watch the SAID-IT Demo](https://youtu.be/pZV7bL4ld-U)**
 
