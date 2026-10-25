@@ -4,7 +4,7 @@ Finds the promises **you** made in a WhatsApp export, on your laptop, with [Gemm
 
 **[Live demo](https://ayushkr23.github.io/said-it/)** · MIT · Vite 8 · React 19 · TypeScript
 
-![Said It, 1 minute 23 seconds](docs/said-it.mp4)
+https://github.com/ayushkr23/said-it/blob/main/docs/said-it.mp4
 
 The 1:23 demo: the chat, Gemma finding the promises, and the one reply. Sound on.
 
