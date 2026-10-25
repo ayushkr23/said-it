@@ -47,7 +47,7 @@ export function Logo() {
   const navigate = useNavigate();
   return (
     <motion.a
-      href="/"
+      href="#/"
       className="logo"
       onClick={(e) => {
         e.preventDefault();

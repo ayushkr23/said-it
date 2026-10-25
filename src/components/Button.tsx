@@ -121,7 +121,7 @@ export function ULink({ children, onClick, href, to }: { children: ReactNode; on
   return (
     <a
       className="u-link"
-      href={href ?? to ?? "#"}
+      href={href ?? (to ? `#${to}` : "#")}
       target={href ? "_blank" : undefined}
       rel={href ? "noreferrer" : undefined}
       onClick={(e) => {
