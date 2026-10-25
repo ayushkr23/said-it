@@ -6,7 +6,4 @@ dist
 .env.*
 .DS_Store
 Thumbs.db
-video/node_modules
-video/out
-video/.remotion
-video/.remotion-tmp
+video/

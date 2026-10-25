@@ -4,15 +4,9 @@ Finds the promises **you** made in a WhatsApp export, on your laptop, with [Gemm
 
 **[Live demo](https://ayushkr23.github.io/said-it/)** · MIT · Vite 8 · React 19 · TypeScript
 
----
+![Said It, 1 minute 23 seconds](docs/said-it.mp4)
 
-## Watch (1:23)
-
-<video src="docs/said-it.mp4" poster="docs/poster.png" controls playsinline width="100%"></video>
-
-[![Said It title card](docs/poster.png)](docs/said-it.mp4)
-
-[Open the explainer](docs/said-it.mp4) — 720p, about 7 MB. Built with Remotion; sources live in [`video/`](video/).
+The 1:23 demo: the chat, Gemma finding the promises, and the one reply. Sound on.
 
 ---
 
@@ -132,8 +126,7 @@ said-it/
 ├── src/sections/           # lever, night timeline, details, open switch
 ├── src/data/sample-chat.txt
 ├── src/data/recorded.json  # the 17-call run used for Replay
-├── scripts/check-parse.ts  # npm run test:parse
-└── video/                  # Remotion explainer (see video/README.md)
+└── scripts/check-parse.ts  # npm run test:parse
 ```
 
 ---
