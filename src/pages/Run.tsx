@@ -224,7 +224,7 @@ export default function Run() {
                 <button type="button" className="chip" onClick={() => load(sample, SAMPLE_NAME) && setMe("Ayush")} data-cursor="load">
                   use the sample chat
                 </button>
-                <a className="u-link small" href={`/sample/${encodeURIComponent(SAMPLE_NAME)}`} download>
+                <a className="u-link small" href={`${import.meta.env.BASE_URL}sample/${encodeURIComponent(SAMPLE_NAME)}`} download>
                   download the sample
                 </a>
               </div>
