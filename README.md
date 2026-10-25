@@ -2,6 +2,13 @@
 
 Finds the promises **you** made in a WhatsApp export, on your laptop, with [Gemma](https://ai.google.dev/gemma) through [Ollama](https://ollama.com/). Chat text is never sent to a remote API.
 
+## 🎬 Project Demo
+
+[![SAID-IT Project Demo](https://img.youtube.com/vi/pZV7bL4ld-U/hqdefault.jpg)](https://youtu.be/pZV7bL4ld-U)
+
+▶️ **[Watch the SAID-IT Demo](https://youtu.be/pZV7bL4ld-U)**
+
+
 **[Live demo](https://ayushkr23.github.io/said-it/)** · MIT · Vite 8 · React 19 · TypeScript
 
 https://github.com/ayushkr23/said-it/blob/main/docs/said-it.mp4
