@@ -1,0 +1,212 @@
+{
+  "late": [
+    {
+      "messageId": 5,
+      "quote": "haan kal bhej dunga ER diagram, almost ready hai",
+      "saidAt": "2026-10-15T04:11:00.000Z",
+      "what": "send ER diagram",
+      "to": "Riya",
+      "due": "2026-10-15T18:30:00.000Z",
+      "dueLabel": "kal / tomorrow",
+      "effort": 2,
+      "daysLate": 9
+    },
+    {
+      "messageId": 14,
+      "quote": "let me check with sir and get back to you",
+      "saidAt": "2026-10-19T04:35:00.000Z",
+      "what": "check with sir",
+      "to": "Riya",
+      "due": "2026-10-20T18:30:00.000Z",
+      "dueLabel": "no date, so 2 days",
+      "effort": 2,
+      "daysLate": 4
+    },
+    {
+      "messageId": 17,
+      "quote": "shit sorry, will return your charger tomorrow pakka",
+      "saidAt": "2026-10-21T03:32:00.000Z",
+      "what": "return charger",
+      "to": "Kabir",
+      "due": "2026-10-21T18:30:00.000Z",
+      "dueLabel": "kal / tomorrow",
+      "effort": 1,
+      "daysLate": 3
+    }
+  ],
+  "soon": [
+    {
+      "messageId": 23,
+      "quote": "kal tak normalization wala part kar dunga, 3NF tak",
+      "saidAt": "2026-10-24T05:45:00.000Z",
+      "what": "complete normalization part",
+      "to": "Riya",
+      "due": "2026-10-24T18:30:00.000Z",
+      "dueLabel": "kal / tomorrow",
+      "effort": 3,
+      "daysLate": 0
+    },
+    {
+      "messageId": 25,
+      "quote": "parso tak viva questions ka doc share karta hu",
+      "saidAt": "2026-10-24T05:50:00.000Z",
+      "what": "share document viva questions",
+      "to": "Riya",
+      "due": "2026-10-25T18:30:00.000Z",
+      "dueLabel": "parso",
+      "effort": 2,
+      "daysLate": -1
+    }
+  ],
+  "kept": [
+    {
+      "messageId": 11,
+      "quote": "I'll book the lab slot for friday, chill",
+      "saidAt": "2026-10-17T14:42:00.000Z",
+      "what": "book the lab slot",
+      "to": "Kabir",
+      "due": "2026-10-22T18:30:00.000Z",
+      "dueLabel": "friday",
+      "effort": 2,
+      "daysLate": 2,
+      "keptBy": "lab slot booked for friday 3pm ✅"
+    }
+  ],
+  "easiest": {
+    "messageId": 17,
+    "quote": "shit sorry, will return your charger tomorrow pakka",
+    "saidAt": "2026-10-21T03:32:00.000Z",
+    "what": "return charger",
+    "to": "Kabir",
+    "due": "2026-10-21T18:30:00.000Z",
+    "dueLabel": "kal / tomorrow",
+    "effort": 1,
+    "daysLate": 3
+  },
+  "reply": "Sorry yaar, charger kal subah 10 baje deliver karunga 🚀",
+  "thrownAway": 24,
+  "scanned": 9,
+  "total": 29,
+  "today": "2026-10-24T18:30:00.000Z",
+  "stats": [
+    {
+      "model": "gemma3:4b",
+      "ms": 1629,
+      "promptTokens": 450,
+      "outTokens": 60,
+      "tokensPerSec": 45.7
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1382,
+      "promptTokens": 461,
+      "outTokens": 64,
+      "tokensPerSec": 55.2
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1370,
+      "promptTokens": 449,
+      "outTokens": 62,
+      "tokensPerSec": 53.4
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1184,
+      "promptTokens": 451,
+      "outTokens": 55,
+      "tokensPerSec": 55.8
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1308,
+      "promptTokens": 449,
+      "outTokens": 58,
+      "tokensPerSec": 52.6
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1305,
+      "promptTokens": 447,
+      "outTokens": 60,
+      "tokensPerSec": 55.8
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1464,
+      "promptTokens": 441,
+      "outTokens": 61,
+      "tokensPerSec": 49.7
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1422,
+      "promptTokens": 457,
+      "outTokens": 60,
+      "tokensPerSec": 51.4
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 1355,
+      "promptTokens": 448,
+      "outTokens": 56,
+      "tokensPerSec": 51
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 519,
+      "promptTokens": 136,
+      "outTokens": 17,
+      "tokensPerSec": 48.4
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 472,
+      "promptTokens": 135,
+      "outTokens": 17,
+      "tokensPerSec": 48.9
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 522,
+      "promptTokens": 136,
+      "outTokens": 20,
+      "tokensPerSec": 50.2
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 517,
+      "promptTokens": 134,
+      "outTokens": 20,
+      "tokensPerSec": 50.5
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 541,
+      "promptTokens": 133,
+      "outTokens": 21,
+      "tokensPerSec": 49.6
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 483,
+      "promptTokens": 133,
+      "outTokens": 17,
+      "tokensPerSec": 49
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 539,
+      "promptTokens": 132,
+      "outTokens": 19,
+      "tokensPerSec": 45.1
+    },
+    {
+      "model": "gemma3:4b",
+      "ms": 861,
+      "promptTokens": 211,
+      "outTokens": 28,
+      "tokensPerSec": 42
+    }
+  ]
+}
